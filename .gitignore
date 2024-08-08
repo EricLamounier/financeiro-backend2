@@ -1,0 +1,5 @@
+.vercel
+/node_modules
+.env
+server.js
+localtunnel.js
